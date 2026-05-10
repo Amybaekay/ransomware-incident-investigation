@@ -169,6 +169,10 @@ cybersecurity posture and reduce the likelihood of future incidents.
 - Centralize security logging and monitoring
 - Implement SIEM solutions for threat detection
 
+## Secure Backup
+- Isolate backups from production systems
+- Conduct regular backup testing
+
 
 # Conclusion
 
