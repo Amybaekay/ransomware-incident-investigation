@@ -44,8 +44,10 @@ The following recommendations were proposed to strengthen the security of Orion 
 - Deploy Endpoint Detection and Response (EDR) solutions
 - Improve centralized logging and monitoring
 - Apply least privilege access controls
+- Isolate backups from production systems
 - Segment critical systems and sensitive environments
 - Conduct regular vulnerability assessments and security testing
+- Conduct regular backup testing
 
 # Skills Demonstrated
 - Incident Response Analysis
